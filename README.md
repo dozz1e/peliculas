@@ -9,13 +9,9 @@
 
 ## Info General
 
----
-
 Tarea de creación de una página que maneje apis con Jquery y ajax para bootcamp SOCIUS.
 
 ## Tecnologías
-
----
 
 Una lista de tcnologías que use en la tarea:
 
@@ -25,8 +21,6 @@ Una lista de tcnologías que use en la tarea:
 - [Bulma CSS](https://kenwheeler.github.io/slick/): Version 1.0.1
 
 ## Installation
-
----
 
 Para poder usar esta tarea, siga los siguientes pasos.
 
@@ -38,8 +32,6 @@ $ npm start
 ```
 
 ## FAQs
-
----
 
 Preguntas sobre la tarea
 
