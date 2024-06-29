@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+  <head>
+    <meta charset="utf-8" />
+    <title>Movies!!</title>
+    <meta
+      name="description"
+      content="Películas en modo async para mostrar de forma random."
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" sizes="16x16" type="image/png" href="favicon-16x16.png" />
+    <link rel="icon" sizes="32x32" type="image/png" href="favicon-32x32.png" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bulma@1.0.1/css/bulma.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"
+    />
+    <link rel="stylesheet" href="/assets/css/style.css" />
+  </head>
+
+  <body>
+    <nav class="navbar" role="navigation" aria-label="main navigation">
+      <div class="container">
+        <div
+          class="peliculas__navbar is-flex is-justify-content-space-between is-align-items-center"
+        >
+          <a class="navbar-item ml-2" href="/">
+            <img src="favicon-32x32.png" alt="Logo Movies!!" />
+            <span class="title is-4"> ovies!! </span>
+          </a>
+
+          <button class="button bg-rojo my-2 mr-2" onclick="getPelicula()">
+            Recomendar Película
+          </button>
+        </div>
+      </div>
+    </nav>
+    <div class="container">
+      <div class="row">
+        <div class="col-1">
+          <div id="pelicula" class="relative">
+            <header id="pelicula__header"></header>
+          </div>
+        </div>
+        <div id="pelicula__texto" class="col-2">
+          <section class="hero is-small">
+            <div class="hero-body">
+              <div id="pelicula__titulo" class="title mt-0 mb-1"></div>
+              <div id="pelicula__title" class="text-sm"></div>
+            </div>
+          </section>
+          <div class="pelicula__contenido px-5 pb-5">
+            <div id="pelicula__data"></div>
+            <div id="pelicula__resumen" class="pt-2"></div>
+            <div
+              class="py-2 is-flex is-justify-content-space-between is-align-items-center"
+            >
+              <div id="pelicula__puntuacion"></div>
+              <div id="pelicula__trailer"></div>
+            </div>
+            <hr />
+            <div id="pelicula__director"></div>
+            <hr />
+            <div id="pelicula__reparto"></div>
+          </div>
+        </div>
+      </div>
+      <div class="grid">
+        <div class="cell col-3">
+          <div id="peliculas" class="px-5">
+            <h2 class="title is-5 m-0 p-2">Listado de Peliculas</h2>
+            <div class="select mb-3">
+              <select id="peliculas__select">
+                <option hidden selected>Selecciona una película</option>
+              </select>
+            </div>
+            <div id="peliculas__slider"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <footer class="footer p-2 mt-3">
+      <div class="content has-text-centered">
+        <p>
+          Creado por
+          <a
+            href="https://github.com/dozz1e"
+            target="_blank"
+            class="has-text-white"
+            ><strong>Osvaldo Molina</strong></a
+          >
+        </p>
+      </div>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script
+      type="text/javascript"
+      src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"
+    ></script>
+    <script src="/assets/js/main.js"></script>
+  </body>
+</html>

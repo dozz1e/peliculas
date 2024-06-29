@@ -1,0 +1,250 @@
+{
+  "peliculas": [
+    {
+      "id": 1,
+      "tituloLat": "Sueño de Fuga",
+      "duracion": "2h 22m",
+      "resumen": "Andy Dufresne es encarcelado por matar a su esposa y al amante de esta. Tras una dura adaptación, intenta mejorar las condiciones de la prisión y dar esperanza a sus compañeros.",
+      "director": ["Frank Darabont"],
+      "reparto": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+      "puntuacion": "9.3",
+      "trailer": "https://player.vimeo.com/video/413082570?h=90fa8301cf&title=0&byline=0&portrait=0",
+      "imagen": "https://mx.web.img3.acsta.net/c_310_420/pictures/19/07/30/21/54/2985567.jpg"
+    },
+    {
+      "id": 2,
+      "tituloLat": "El Padrino",
+      "duracion": "2h 55m",
+      "resumen": "El envejecido patriarca de una dinastía del crimen organizado en la ciudad de Nueva York de la posguerra transfiere el control de su imperio clandestino a su reacio hijo menor.",
+      "director": ["Francis Ford Coppola"],
+      "reparto": ["Marlon Brando", "Al Pacino", "James Caan"],
+      "puntuacion": "9.2",
+      "trailer": "https://player.vimeo.com/video/549334182?h=100528dd8a&title=0&byline=0&portrait=0",
+      "imagen": "https://mx.web.img3.acsta.net/r_1920_1080/pictures/18/11/13/00/18/4660965.jpg"
+    },
+    {
+      "id": 3,
+      "tituloLat": "El Padrino II",
+      "duracion": "3h 22m",
+      "resumen": "Se retratan los inicios de la vida y la carrera de Vito Corleone en el Nueva York de los años 20, mientras su hijo, Michael, amplía y refuerza su control sobre el sindicato del crimen familiar.",
+      "director": ["Francis Ford Coppola"],
+      "reparto": ["Al Pacino", "Robert De Niro", "Robert Duvall"],
+      "puntuacion": "9.0",
+      "trailer": "https://player.vimeo.com/video/549334089?h=cad1ab61f1&title=0&byline=0&portrait=0",
+      "imagen": "https://mx.web.img2.acsta.net/c_310_420/medias/nmedia/18/68/09/06/20197890.jpg"
+    },
+    {
+      "id": 4,
+      "tituloLat": "Batman: El caballero de la noche",
+      "duracion": "2h 32m",
+      "resumen": "Cuando la amenaza conocida como el Joker causa estragos y el caos en Gotham City, Batman debe aceptar una de las mayores pruebas psicológicas y físicas para luchar contra la injusticia.",
+      "director": ["Christopher Nolan"],
+      "reparto": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+      "puntuacion": "9.0",
+      "trailer": "https://player.vimeo.com/video/165721792?h=b6595006f1&title=0&byline=0&portrait=0",
+      "imagen": "https://mx.web.img3.acsta.net/c_310_420/pictures/18/05/09/01/30/4200790.jpg"
+    },
+    {
+      "id": 5,
+      "tituloLat": "12 hombres en pugna",
+      "duracion": "1h 36m",
+      "resumen": "Un miembro del jurado trata de evitar un error judicial obligando al resto del jurado a reconsiderar las pruebas.",
+      "director": ["Sidney Lumet"],
+      "reparto": ["Henry FondaLee", "J. Cobb", "Martin Balsam"],
+      "puntuacion": "9.0",
+      "trailer": "https://player.vimeo.com/video/68917264?h=de6d548b1f&title=0&byline=0&portrait=0",
+      "imagen": "https://mx.web.img3.acsta.net/c_310_420/pictures/19/07/22/05/38/5108155.jpg"
+    },
+    {
+      "id": 6,
+      "tituloLat": "La lista de Schindler",
+      "duracion": "3h 15m",
+      "resumen": "En la Polonia ocupada por los alemanes durante la Segunda Guerra Mundial, el industrial Oskar Schindler se preocupa por sus trabajadores judíos tras presenciar su persecución por los nazis.",
+      "director": ["Steven Spielberg"],
+      "reparto": ["Liam Neeson", "Ralph Fiennes", "Ben Kingsley"],
+      "puntuacion": "9.0",
+      "trailer": "https://player.vimeo.com/video/57139573?h=a547f421b8&color=ffffff&byline=0&portrait=0",
+      "imagen": "https://mx.web.img3.acsta.net/c_310_420/pictures/210/212/21021236_20130719134221407.jpg"
+    },
+    {
+      "id": 7,
+      "tituloLat": "El Señor de los Anillos: El retorno del Rey",
+      "duracion": "3h 21m",
+      "resumen": "Gandalf y Aragorn lideran el mundo de los hombres contra la armada de Sauron para distraer su atención de Frodo y Sam, quienes se aproximan al Monte del Destino con el Anillo Único.",
+      "director": ["Peter Jackson"],
+      "reparto": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
+      "puntuacion": "9.0",
+      "trailer": "https://www.dailymotion.com/embed/video/x819859?autoplay=0",
+      "imagen": "https://mx.web.img3.acsta.net/c_310_420/medias/nmedia/18/89/68/19/20061877.jpg"
+    },
+    {
+      "id": 8,
+      "tituloLat": "Tiempos violentos",
+      "duracion": "2h 34m",
+      "resumen": "Las vidas de dos mafiosos, un boxeador, la esposa de un gánster y un par de bandidos se entrelazan en cuatro historias de violencia y redención.",
+      "director": ["Quentin Tarantino"],
+      "reparto": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+      "puntuacion": "8.9",
+      "trailer": "https://player.vimeo.com/video/169787074?h=d5ab707a45&title=0&byline=0&portrait=0",
+      "imagen": "https://musicart.xboxlive.com/7/767c6300-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080"
+    },
+    {
+      "id": 9,
+      "tituloLat": "El bueno, el malo y el feo",
+      "duracion": "3h 2m",
+      "resumen": "Durante la guerra de Secesión, tres cazarrecompensas se lanzan a la búsqueda de un tesoro que ninguno puede localizar sin la ayuda de los otros dos.",
+      "director": ["Sergio Leone"],
+      "reparto": ["Clint Eastwood", "Eli Wallach", "Lee Van Cleef"],
+      "puntuacion": "8.8",
+      "trailer": "https://player.vimeo.com/video/580619532?h=d4dcfc97e3&title=0&byline=0&portrait=0",
+      "imagen": "https://mx.web.img3.acsta.net/c_310_420/pictures/14/03/21/13/49/293020.jpg"
+    },
+    {
+      "id": 10,
+      "tituloLat": "El club de la pelea",
+      "duracion": "2h 19m",
+      "resumen": "Un oficinista insomne y un fabricante de jabones forman un club de lucha clandestino que se convierte en mucho más.",
+      "director": ["David Fincher"],
+      "reparto": ["Brad Pitt", "Edward Norton", "Meat Loaf"],
+      "puntuacion": "8.8",
+      "trailer": "https://player.vimeo.com/video/778929003?h=d5f3410bdb&title=0&byline=0&portrait=0",
+      "imagen": "https://mx.web.img3.acsta.net/c_310_420/medias/nmedia/18/69/04/88/20140966.jpg"
+    },
+    {
+      "id": 11,
+      "tituloLat": "Forrest Gump",
+      "duracion": "2h 22m",
+      "resumen": "Las presidencias de Kennedy y Johnson, los acontecimientos de Vietnam, el Watergate y otros eventos históricos se desarrollan a través de la perspectiva de un hombre de Alabama con un coeficiente intelectual de 75.",
+      "director": ["Robert Zemeckis"],
+      "reparto": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+      "puntuacion": "8.8",
+      "trailer": "https://player.vimeo.com/video/829408894?h=9bf62b819b&title=0&byline=0&portrait=0",
+      "imagen": "https://mx.web.img3.acsta.net/c_310_420/medias/nmedia/18/93/24/15/20244789.jpg"
+    },
+    {
+      "id": 12,
+      "tituloLat": "El origen",
+      "duracion": "2h 28m",
+      "resumen": "A un ladrón que roba secretos corporativos a través del uso de la tecnología de compartir sueños, se le da la tarea de implantar una idea en la mente de un jefe de una gran empresa.",
+      "director": ["Christopher Nolan"],
+      "reparto": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+      "puntuacion": "8.8",
+      "trailer": "https://player.vimeo.com/video/82728076?h=38befcf166&title=0&byline=0&portrait=0",
+      "imagen": "https://mx.web.img3.acsta.net/c_310_420/medias/nmedia/18/72/41/74/20198901.jpg"
+    },
+    {
+      "id": 13,
+      "tituloLat": "Matrix",
+      "duracion": "2h 16m",
+      "resumen": "Cuando una bella desconocida lleva al hacker Neo a un inframundo prohibido, descubre la impactante verdad: la vida que conoce es un elaborado engaño de una ciberinteligencia malvada.",
+      "director": ["Lana Wachowski", "Lilly Wachowski"],
+      "reparto": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+      "puntuacion": "8.7",
+      "trailer": "https://player.vimeo.com/video/482280268?h=c899b82568&title=0&byline=0&portrait=0",
+      "imagen": "https://mx.web.img3.acsta.net/c_310_420/medias/04/34/49/043449_af.jpg"
+    },
+    {
+      "id": 14,
+      "tituloLat": "Buenos muchachos",
+      "duracion": "2h 25m",
+      "resumen": "La historia de Henry Hill y su vida en la mafia, abarcando su relación con su esposa Karen Hill y sus socios mafiosos Jimmy Conway y Tommy DeVito en el sindicato del crimen italoamericano.",
+      "director": ["Martin Scorsese"],
+      "reparto": ["Robert De Niro", "Ray Liotta", "Joe Pesci"],
+      "puntuacion": "8.7",
+      "trailer": "https://player.vimeo.com/video/556234472?h=d30d13b7ff&title=0&byline=0&portrait=0",
+      "imagen": "https://mx.web.img2.acsta.net/c_310_420/pictures/18/06/06/04/05/3620058.jpg"
+    },
+    {
+      "id": 15,
+      "tituloLat": "Star Wars : Episodio V - El imperio contraataca",
+      "duracion": "2h 4m",
+      "resumen": "Tras ser brutalmente dominados los rebeldes por el Imperio en el planeta helado Hoth, Luke Skywalker comienza su entrenamiento jedi con Yoda, mientras sus amigos son perseguidos por Darth Vader y el cazarrecompensas Boba Fett.",
+      "director": ["Irvin Kershner"],
+      "reparto": ["Mark Hamill", "Harrison Ford", "Carrie Fisher"],
+      "puntuacion": "8.7",
+      "trailer": "https://player.vimeo.com/video/126050121?h=270beedd24&title=0&byline=0&portrait=0",
+      "imagen": "https://mx.web.img3.acsta.net/c_310_420/medias/nmedia/18/72/73/89/20535462.jpg"
+    },
+    {
+      "id": 16,
+      "tituloLat": "Atrapado sin salida",
+      "duracion": "2h 13m",
+      "resumen": "Un criminal alega locura para ser enviado a un centro de salud mental, donde se rebela contra la opresiva enfermera y moviliza a los pacientes, a quienes tienen atemorizados.",
+      "director": ["Milos Forman"],
+      "reparto": ["Jack Nicholson", "Louise Fletcher", "Michael Berryman"],
+      "puntuacion": "8.7",
+      "trailer": "https://player.vimeo.com/video/183945389?h=236f3c0036&title=0&byline=0&portrait=0",
+      "imagen": "https://mx.web.img3.acsta.net/c_310_420/pictures/19/05/13/01/52/5385884.jpg"
+    },
+    {
+      "id": 17,
+      "tituloLat": "Interstellar",
+      "duracion": "2h 49m",
+      "resumen": "Un equipo de exploradores viaja a través de un agujero de gusano en el espacio en un intento de garantizar la supervivencia de la humanidad.",
+      "director": ["Christopher Nolan"],
+      "reparto": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+      "puntuacion": "8.7",
+      "trailer": "https://player.vimeo.com/video/95995610?h=a7571e57c8&title=0&byline=0&portrait=0",
+      "imagen": "https://mx.web.img3.acsta.net/c_310_420/pictures/19/01/28/01/13/3672733.png"
+    },
+    {
+      "id": 18,
+      "tituloLat": "Ciudad de Dios",
+      "duracion": "2h 10m",
+      "resumen": "En un barrio pobre de Rio, los caminos de dos niños se cruzan mientras uno quiere ser fotógrafo y el otro capo.",
+      "director": ["Fernando Meirelles", "Kátia Lund"],
+      "reparto": [
+        "Alexandre Rodrigues",
+        "Leandro Firmino",
+        "Matheus Nachtergaele"
+      ],
+      "puntuacion": "8.6",
+      "trailer": "https://player.vimeo.com/video/309121382?h=543992f60d&title=0&byline=0&portrait=0",
+      "imagen": "https://mx.web.img2.acsta.net/c_310_420/medias/nmedia/18/68/09/00/20071863.jpg"
+    },
+    {
+      "id": 19,
+      "tituloLat": "Seven",
+      "duracion": "2h 7m",
+      "resumen": "Dos detectives, un novato y un veterano, dan caza a un asesino en serie cuyo móvil son los siete pecados capitales.",
+      "director": ["David Fincher"],
+      "reparto": ["Morgan Freeman", "Brad Pitt", "Kevin Spacey"],
+      "puntuacion": "8.6",
+      "trailer": "https://player.vimeo.com/video/116144478?h=53917d0031&color=5a7481&title=0&byline=0&portrait=0",
+      "imagen": "https://mx.web.img2.acsta.net/c_310_420/medias/nmedia/18/69/04/89/19757783.jpg"
+    },
+    {
+      "id": 20,
+      "tituloLat": "El silencio de los inocentes",
+      "duracion": "1h 58m",
+      "resumen": "Una joven cadete del FBI busca la ayuda de un asesino caníbal y manipulador encarcelado con el fin de atrapar a otro asesino en serie, un loco que despelleja a sus víctimas.",
+      "director": ["Jonathan Demme"],
+      "reparto": ["Jodie Foster", "Anthony Hopkins", "Scott Glenn"],
+      "puntuacion": "8.6",
+      "trailer": "https://player.vimeo.com/video/188634860?h=429cbdeb2d&title=0&byline=0&portrait=0",
+      "imagen": "https://mx.web.img2.acsta.net/r_1920_1080/img/f1/0e/f10e1eff5af9c7a36ff587ae2812a5f0.jpg"
+    },
+    {
+      "id": 21,
+      "tituloLat": "Rescatando al soldado Ryan",
+      "duracion": "2h 49m",
+      "resumen": "Tras el desembarco de Normandía, un grupo de soldados estadounidenses cruza las líneas enemigas para rescatar a un paracaidista cuyos hermanos han muerto en combate.",
+      "director": ["Steven Spielberg"],
+      "reparto": ["Tom Hanks", "Matt Damon", "Tom Sizemore"],
+      "puntuacion": "8.6",
+      "trailer": "https://player.vimeo.com/video/57139572?h=cc280fa209&color=ffffff&byline=0&portrait=0",
+      "imagen": "https://www.cclm.cl/wp-content/uploads/2023/01/FICHE-Rescatanto-el-soldado-ryan.jpg"
+    },
+    {
+      "id": 22,
+      "tituloLat": "Milagros inesperados",
+      "duracion": "3h 9m",
+      "resumen": "Las vidas de los guardias del corredor de la muerte se ven afectadas por uno de sus reclusos: un hombre negro acusado de asesinato y violación de niños, pero que tiene un misterioso don.",
+      "director": ["Frank Darabont"],
+      "reparto": ["Tom Hanks", "Michael Clarke Duncan", "David Morse"],
+      "puntuacion": "8.6",
+      "trailer": "https://player.vimeo.com/video/138932696?h=be2531e04b&title=0&byline=0&portrait=0",
+      "imagen": "https://mx.web.img3.acsta.net/c_310_420/pictures/19/04/13/06/29/0232653.jpg"
+    }
+  ]
+}
