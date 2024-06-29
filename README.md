@@ -35,17 +35,17 @@ $ npm start
 
 Preguntas sobre la tarea
 
-1. **Se usó las api que se dieron**
+1. **Se usó las api que se dieron**  
    Se utilizó ambas endpoints, y en todo momento se usa el endpoint para buscar la película aleatoria.
 
-2. **Se usó otro archivo como endpoint**
+2. **Se usó otro archivo como endpoint**  
    Se usó un archivo en el directorio DB con le nombre peliculas.json. Este archivo complementa el información que se trae desde la api original, con más datos sobre cada película.
 
-3. **Más información de la que se pidió**
+3. **Más información de la que se pidió**  
    Me gustó la idea de hacer esta tarea y quise hacerla con más información para que se viera un buen diseño
 
-4. **Diseño responsivo y otros**
+4. **Diseño responsivo y otros**  
    El diseño es completamente responsivo, salvo las imágenes que fueron usadas directamente desde la página de IMDb y no están optimmizadas ni en formato webp o un formato parecido. Tampoco se uso SEO por no ser una página que se indexe.
 
-5. **Entrega fuera de plazo**
+5. **Entrega fuera de plazo**  
    Entregué la tarea un par de días después ya que tuve problemas personales y quería entregarla.
