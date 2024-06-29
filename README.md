@@ -31,7 +31,7 @@ Una lista de tcnologías que use en la tarea:
 Para poder usar esta tarea, siga los siguientes pasos.
 
 ```
-$ git clone https://example.com
+$ git clone https://github.com/dozz1e/peliculas
 $ cd ../directorio/donde/lo/guardo
 $ npm install
 $ npm start
