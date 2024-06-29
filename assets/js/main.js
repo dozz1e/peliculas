@@ -1,5 +1,5 @@
 const API_URL = "https://www.codigo-alfa.cl/aglo/Tester/";
-const DB_URL = "/db/peliculas.json";
+const DB_URL = "/peliculas/db/peliculas.json";
 
 let peliculas_API = JSON.parse(sessionStorage.getItem("peli_api"));
 let peliculas_BD = JSON.parse(sessionStorage.getItem("peli_db"));
